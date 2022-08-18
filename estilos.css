@@ -1,0 +1,177 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #b8bfff;
+}
+
+.seccion0 {
+    
+    width: 100%;
+    height: 20vh;
+    color: white;
+
+    background: #7474bf; 
+    background: -webkit-linear-gradient(to right, #7474bf, #348ac7); 
+    background: linear-gradient(to right, #7474bf, #348ac7);
+    font-size: 2rem;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.seccion1 {
+    height: 26vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+
+.cajaimagen {
+    width: 15%;
+    height: 80%;
+    border-radius: 15px;
+    background-color: #537bff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.caja1 {
+    width: 15%;
+    height: 80%;
+    border-radius: 15px;
+    background-color: #537bff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.caja1 p {
+    
+    font-family: 'Overpass', sans-serif;
+    font-size: 1.5rem;
+   text-align: center;
+   color: white;
+}
+
+.caja1b {
+    width: 15%;
+    height: 80%;
+    border-radius: 15px;
+    background-color: #537bff;
+    font-family: 'Overpass', sans-serif;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.seccion2 {
+    height: 26vh;
+    width: 100%;
+    background-color: #537bff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.caja2 {
+    width: 15%;
+    height: 80%;
+    border-radius: 15px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caja2 p {
+    
+    font-family: 'Overpass', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #192b41;
+}
+
+.caja2b {
+    width: 15%;
+    height: 80%;
+    border-radius: 15px;
+    background-color:white;
+    font-family: 'Overpass', sans-serif;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #537bff;
+}
+
+
+/* SECCION 3*/
+
+.seccion3 {
+    height: 26vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.caja3 {
+    width: 15%;
+    height: 80%;
+    border-radius: 15px;
+    background-color: #537bff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.caja3 p {
+    
+    font-family: 'Overpass', sans-serif;
+    font-size: 1.5rem;
+   text-align: center;
+   color: white;
+}
+
+.caja3b {
+    width: 15%;
+    height: 80%;
+    border-radius: 15px;
+    background-color: #537bff;
+    font-family: 'Overpass', sans-serif;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
